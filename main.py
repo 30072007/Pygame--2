@@ -15,7 +15,7 @@ pygame.display.set_icon(icon)
 #now this
 
 #game loop
-
+#while running loop
 running = True
 while running:
     for event in pygame.event.get():
